@@ -129,7 +129,4 @@ Use a local buffer of 1024 chars in order to call write as little as possible.
 
 #### 16. *
 
-- All the above options work well together.
-
-----
-
+- All the above options work well together 
